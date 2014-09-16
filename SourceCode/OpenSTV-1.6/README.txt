@@ -20,9 +20,17 @@ by hand, but it is useful to have a computer program to speed up the
 process.  There are several variations of STV, but most users should
 use the default options.
 
-INSTALLATION
+ABOUT THE SOFTWARE AND ITS REDISTRIBUTION
+OpenSTV was made paid software under the GPL in 2011, and was soon
+transitioned into closed source software shortly after, ridding the
+world of it's best FOSS STV software. No other software has stepped
+up to the task of OpenSTV as yet, and thus I am redistributing the
+old 1.6.2 version, the last no-cost GPL version. It it perfectly
+legal for me to do so under the terms of the GPL as long as I link
+or otherwise distribute the source. However, the issue of the
+OpenSTV trademark remains, however, I believe that Jeff O'Neill
+has not trademarked the OpenSTV logo or name, and thus, it should
+be fine to use it as it is a verbatim copy of the old source.
 
-See http://www.OpenSTV.org/ for more information.
-
-Jeff O'Neill
-jeff.oneill at openstv.org
+SOURCE CODE
+The source is available at https://github.com/NexxusDrako/openSTV
